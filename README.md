@@ -1,6 +1,5 @@
-# Aprendendo a utilizar o Git #
-Criar um repositório
+# Aprendendo a utilizar o Git - Sistema de Cadastro de jogos#
+Para rodar esse projeto na sua máquina digite:
 ```
-Cristiane Maria Lemes
-Primeiro commit
+npm install react
 ```
